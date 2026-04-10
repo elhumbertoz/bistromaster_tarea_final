@@ -51,12 +51,5 @@ La documentación interactiva (Swagger) en `http://localhost:8000/docs`.
 ### 4. Acceder al Frontend
 - **Menú Cliente**: Abre `frontend/index.html` en tu navegador.
 - **Panel Staff**: Abre `frontend/admin.html` (Credenciales: `admin` / `admin123`).
-
-## 📄 Generación de Reporte Académico
-Para generar el documento Word final para la entrega:
-```bash
-python crear_doc.py
-```
-
 ---
 *Desarrollado por Humberto Alejandro Zambrano - Programación III B*
