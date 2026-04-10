@@ -1,10 +1,10 @@
-# 🍽️ BistroMaster PRO - Restaurant Management System
+# BistroMaster PRO - Pedidos de restaurante
 
 **BistroMaster PRO** es una solución integral y profesional para la gestión de restaurantes, diseñada para ofrecer una experiencia perfecta tanto para el cliente como para el personal administrativo.
 
 Este proyecto ha sido desarrollado como una **API de extremo a extremo** con un frontend moderno y elegante.
 
-## 🚀 Características Principales
+## Características Principales
 
 - **API REST Robusta**: Desarrollada con FastAPI y SQLModel.
 - **Base de Datos Persistente**: Implementación con SQLite para facilitar la portabilidad.
@@ -13,7 +13,7 @@ Este proyecto ha sido desarrollado como una **API de extremo a extremo** con un 
 - **Dashboard Administrativo**: Monitoreo de pedidos en tiempo real y gestión dinámica del menú.
 - **Reporte Automático**: Generador de documentación en formato Word para entrega académica.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 | Componente | Tecnología |
 | :--- | :--- |
@@ -23,7 +23,7 @@ Este proyecto ha sido desarrollado como una **API de extremo a extremo** con un 
 | **Frontend** | Vanilla JavaScript, HTML5, CSS3 Moderno |
 | **Manuals** | python-docx |
 
-## 📦 Instalación y Uso
+## Instalación y Uso
 
 ### 1. Preparar el entorno
 ```bash
